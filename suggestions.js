@@ -1,0 +1,16 @@
+let suggestions = [
+    "Ibraah Mapenzi Lyrics",
+    "Zuchu Kwaru Lyrics",
+    "Zuchu Nyumba Ndogo Lyrics",
+    "Mbosso ft Diamond Baikoko Lyrics",
+    "Otile Brown ft Jux Regina Lyrics",
+    "Rayvanny I Love You Lyrics",
+    "Zuchu ft Rayvanny Number One Lyrics",
+    "Ibraah Nimpende Lyrics",
+    "Zuchu Sukari Lyrics",
+    "Rayvanny ft Messias Maricoa Teamo Lyrics",
+    "Ibraah sawa Lyrics",
+    "Ibraah Nitachelewa Lyrics",
+    "Rayvanny Kiuno Lyrics",
+    "Diamond Platnumz Kamata Lyrics",
+];
